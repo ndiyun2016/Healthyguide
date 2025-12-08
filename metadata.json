@@ -1,0 +1,5 @@
+{
+  "name": "HealthyGuide",
+  "description": "A modern, personalized health tips application with a 10-step Q&A assessment and a comprehensive admin dashboard for customization.",
+  "requestFramePermissions": []
+}
